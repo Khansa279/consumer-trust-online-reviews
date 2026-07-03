@@ -94,7 +94,6 @@ consumer-trust-online-reviews/
 │   └── Consumer_Trust_Online_Reviews.pptx
 │
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
