@@ -105,13 +105,13 @@ consumer-trust-online-reviews/
 
 | Screenshot |
 |------------|
-| ![](screenshots/descriptives/descriptive1.png) |
-| ![](screenshots/descriptives/descriptive2.png) |
-| ![](screenshots/descriptives/descriptive3.png) |
-| ![](screenshots/descriptives/descriptive4.png) |
-| ![](screenshots/descriptives/descriptive5.png) |
-| ![](screenshots/descriptives/descriptive6.png) |
-| ![](screenshots/descriptives/descriptive7.png) |
+| ![Descriptive 1](screenshots/descriptives/descriptive1.png) |
+| ![Descriptive 2](screenshots/descriptives/descriptive2.png) |
+| ![Descriptive 3](screenshots/descriptives/descriptive3.png) |
+| ![Descriptive 4](screenshots/descriptives/descriptive4.png) |
+| ![Descriptive 5](screenshots/descriptives/descriptive5.png) |
+| ![Descriptive 6](screenshots/descriptives/descriptive6.png) |
+| ![Descriptive 7](screenshots/descriptives/descriptive7.png) |
 
 ---
 
@@ -119,11 +119,11 @@ consumer-trust-online-reviews/
 
 ### Age Distribution
 
-![](screenshots/bar-graphs/age_num_frequency.png)
+![Age Distribution](screenshots/bar-graphs/age_num_frequency.png)
 
 ### Shopping Platform Frequency
 
-![](screenshots/bar-graphs/shopping_platform_frequency.png)
+![Shopping Platform Frequency](screenshots/bar-graphs/shopping_platform_frequency.png)
 
 ---
 
@@ -131,26 +131,26 @@ consumer-trust-online-reviews/
 
 ### Shapiro-Wilk Test
 
-![](screenshots/normality-test/shapiro_wilk_test.png)
+![Shapiro Test](screenshots/normality-test/shapiro_wilk_test.png)
 
 ## Non-Parametric Tests
 
 ### Wilcoxon Signed-Rank Test
 
-![](screenshots/non-parametric-tests/wilcoxon_signed_rank.png)
+![Wilcoxon Test](screenshots/non-parametric-tests/wilcoxon_signed_rank.png)
 
 ### Mann-Whitney U Test
 
-![](screenshots/non-parametric-tests/mann_whitney.png)
+![Mann-Whitney Test](screenshots/non-parametric-tests/mann_whitney.png)
 
 ### Kruskal-Wallis H Test
 
-![](screenshots/non-parametric-tests/kruskal_wallis.png)
+![Kruskal-Wallis Test](screenshots/non-parametric-tests/kruskal_wallis.png)
 
 ### Spearman Correlation
 
-![](screenshots/non-parametric-tests/spearman_correlation.png)
+![Spearman Correlation](screenshots/non-parametric-tests/spearman_correlation.png)
 
 ### Chi-Square Test of Independence
 
-![](screenshots/non-parametric-tests/chi_square.png)
+![Chi-Square Test](screenshots/non-parametric-tests/chi_square.png)
