@@ -119,7 +119,7 @@ consumer-trust-online-reviews/
 
 ### Age Distribution
 
-![Age Distribution](screenshots/bar-graphs/age_num_frequency.png)
+![Age Distribution](screenshots/bar-graphs/age-num-frequency.png)
 
 ### Shopping Platform Frequency
 
