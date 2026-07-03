@@ -1,0 +1,20 @@
+# SPSS temporary files
+*.tmp
+*.bak
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Python cache
+__pycache__/
+
+# macOS
+.DS_Store
